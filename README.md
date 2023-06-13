@@ -1,22 +1,25 @@
-# Halo semua! 
+# Halo! 👋
+Saya Fauzi Kurniawan, dan ini adalah profil GitHub saya! Selamat datang di halaman ini, di mana Anda dapat menemukan berbagai proyek menarik dan kontribusi saya dalam dunia pengembangan perangkat lunak.
 
-Perkenalkan nama saya **Fauzi Kurniawan**
+## Tentang Saya
+Saya seorang pengembang perangkat lunak dengan minat dalam Pengembangan Frontend Web dan Mobile, Saya memiliki pengalaman dalam menggunakan berbagai bahasa pemrograman dan kerangka kerja, termasuk bahasa pemrograman Javascript dengan Framework ReactJS, Saya senang berkolaborasi dengan orang-orang yang memiliki minat serupa dan selalu mencari peluang untuk belajar dan tumbuh dalam industri ini.
 
-Saya seorang **Mahasiswa** semester 6 di Universitas Muhammadiyah Prof Dr Hamka
+## Pengalaman Kerja
+Selama karier saya, saya telah bekerja sebagai Frontend Developer di beberapa perusahaan dan organisasi. Beberapa pengalaman kerja saya yaitu:
 
-Saya memiliki ketertarikan pada bidang Frontend Developer, saya juga sudah mengikuti beberapa kursus untuk meningkatkan pengetahuan saya
+- [KMPLus Consulting](https://kmplus.co.id/): Disini saya berperang sebagai seorang Frontend Developer yang bertugas dalam membangun, merawat sebuah layanan antarmuka agar kenyamanan pengunjung ketika menggunakan produk ataupun jasa yang diproduksi oleh KMPlus Consulting
+- [Dicoding Indonesia](https://www.dicoding.com/): Pada perusahaan ini saya adalah seorang External Code Reviewer yang bertugas dalam memeriksa kelayakan tugas akhir yang diberikan kepada peserta kursus Dicoding Indonesia, selain melakukan review, saya juga turut memberikan feedback yaitu sebuah kritik maupun saran sebagai evaluasi bagi submitter kedepannya
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fauzi-kurniawan-97b796197/)ku ya, adapun link portfolio yang telah saya buat [Portfolio](https://kurniawan-portfolio-page.netlify.app/)
+## Terima kasih telah mengunjungi profil GitHub saya!
+Terima kasih telah meluangkan waktu untuk melihat profil GitHub saya. Saya berharap Anda menemukan proyek-proyek dan kontribusi saya menarik. Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berdiskusi tentang hal-hal terkait pengembangan perangkat lunak. Salam dan semoga harimu menyenangkan! 😊
 
-### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### Tools yang dikuasasi
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
