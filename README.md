@@ -7,7 +7,7 @@ Saya seorang pengembang perangkat lunak dengan minat dalam Pengembangan Frontend
 ## Pengalaman Kerja
 Selama karier saya, saya telah bekerja sebagai Frontend Developer di beberapa perusahaan dan organisasi. Beberapa pengalaman kerja saya yaitu:
 
-- [KMPLus Consulting](https://kmplus.co.id/): Disini saya berperang sebagai seorang Frontend Developer yang bertugas dalam membangun, merawat sebuah layanan antarmuka agar kenyamanan pengunjung ketika menggunakan produk ataupun jasa yang diproduksi oleh KMPlus Consulting
+- [KMPLus Consulting](https://kmplus.co.id/): Disini saya berperan sebagai seorang Frontend Developer yang bertugas dalam membangun, merawat sebuah layanan antarmuka agar kenyamanan pengunjung ketika menggunakan produk ataupun jasa yang diproduksi oleh KMPlus Consulting
 - [Dicoding Indonesia](https://www.dicoding.com/): Pada perusahaan ini saya adalah seorang External Code Reviewer yang bertugas dalam memeriksa kelayakan tugas akhir yang diberikan kepada peserta kursus Dicoding Indonesia, selain melakukan review, saya juga turut memberikan feedback yaitu sebuah kritik maupun saran sebagai evaluasi bagi submitter kedepannya
 
 ## Terima kasih telah mengunjungi profil GitHub saya!
